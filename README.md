@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **vijaywaghmare713@gmail.com**
 
+- ⚡ Fun fact **I think I am funny**
+
 
 
 
