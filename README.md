@@ -4,9 +4,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vijaynw&label=Profile%20views&color=0e75b6&style=flat" alt="vijaynw" /> </p>
 
-- 🔭 I’m currently working on **Building-A-Webapp-With-AWS**
+<!-- - 🔭 I’m currently working on **Building-A-Webapp-With-AWS** -->
 
-- 🌱 I’m currently learning **Django**
+<!-- - 🌱 I’m currently learning **Django** -->
 
 - 📫 How to reach me **vijaywaghmare713@gmail.com**
 
