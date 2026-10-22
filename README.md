@@ -1,56 +1,46 @@
-<h1 align="center">Hi 👋, I'm Vijay Waghmare</h1>
-<h3 align="center">🚀 Passionate Software Developer from India</h3>
+## Building in public
+
+<div align="center">
+
+# Vijay Narsinh Waghmare
+
+> Technical founder
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaynw&label=Profile%20Views&color=blue&style=flat" alt="vijaynw" />
+  <img src="https://www.gitskins.com/api/section/hero?username=vijaynw&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F38061521%3Fv%3D4" alt="vijaynw hero visual" />
 </p>
 
----
+</div>
 
-### 👨‍💻 About Me
-- 📫 Reach me at **vijaywaghmare713@gmail.com**  
-- ⚡ Fun Fact: **I think I’m funny 😄**
+## The point of view
 
----
+> Building useful things and learning in public.
 
-## 🧠 Tech Stack
+- 📍 Based in **Pune**
+- 🏢 Working at **Qualys**
+- 👥 **5** followers · **10** following
 
-### 🚀 **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c" height="45" />
-</p>
+*Small, useful work over vague claims.*
 
-### 🎨 **Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" height="45" />
-</p>
+## Products and proof
 
-### 🛢️ **Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
-</p>
+<table>
+<tr><td width="32%"><b><a href="https://github.com/Vijaynw/Vijaynw">Vijaynw</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Vijaynw/CODE">CODE</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+</table>
 
-### ☁️ **Other Tools & Technologies**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws" height="45" />
-</p>
+## Momentum
 
----
+<table>
+<tr><td align="center"><b>18</b><br/><sub>repos</sub></td><td align="center"><b>4</b><br/><sub>stars</sub></td><td align="center"><b>646</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-## 📊 GitHub Stats
+## Start a conversation
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaynw&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaynw&layout=compact&theme=radical" />
+  <img src="https://www.gitskins.com/api/section/social?username=vijaynw&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F38061521%3Fv%3D4" alt="vijaynw social visual" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaynw&theme=radical" />
-</p>
+<a href="https://github.com/vijaynw">GitHub</a>
 
----
-
-### 🌟 **Thanks for Visiting My Profile!**
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="500" />
-</p>
+<p align="center"><sub>Vijay Narsinh Waghmare · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
